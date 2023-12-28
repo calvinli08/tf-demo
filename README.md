@@ -5,3 +5,5 @@ A quick demonstration of a Convolutional Neural Network model trained to identif
 Dataset: https://www.tensorflow.org/datasets/catalog/horses_or_humans
 
 Achieved 84% accuracy
+
+Prepared in Google CoLab
