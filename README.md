@@ -4,6 +4,6 @@ A quick demonstration of a Convolutional Neural Network model trained to identif
 
 Model is built in TensorFlow with Keras, and prepared in Google CoLab
 
-Achieved 84% accuracy
+Achieved 88% accuracy
 
 Dataset: https://www.tensorflow.org/datasets/catalog/horses_or_humans
